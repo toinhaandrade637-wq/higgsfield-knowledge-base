@@ -234,3 +234,7 @@ the flooded ground may appear in color.
 - **黑字点火显形标题**：gothic font that's the same black as the background…catches on fire…to make them **legible**——火使字可读
 
 
+
+
+### 追补 CHORNOS（T3 #158）[E917]
+- **HEX VALUES 调色板数组首例（×2）**：HEX VALUES: ['#04070b', …]——数组形式色值清单（行189 十值/行446 九值）——调色板以 JS 数组字面量交付（区别于单色值逐个声明）
