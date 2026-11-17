@@ -330,3 +330,22 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 > **first blocks the action and camera setup in 3D, then uses that as the basis for generation** ｜ **real, editable geometry, not a rendered image — move, scale, delete like any other object — can feed directly into a Video generation**
 **好在哪**：复杂场景先 3D blocking 再生成（职业流程实证）；Blender Scene Builder 出真几何可入视频渲染。
 **迁移**：多角色走位复杂时先 3D 排布定机位；Blender 管线直接产可编辑场景。
+
+
+### 追补 THE_SHAPE_OF_MEMORIES（T3 #42）[E799]
+- **video_edit 双任务单 prompt**：extend the scene…by adding a scene+Remove only the background music——延场+音频手术合体
+- **照片微活三律**：animate this photo. blinking…dont change camera angle. dont zoom——眨眼微动+机位双禁
+- **同帧位回忆切换**：zooming in→changing into another scene <<<image_2>>> with the same position in frame→zooms out
+- **伸手抓镜转 POV**：stretches his arm towards camera and takes it——抓镜转第一人称
+- **皮肤质感匹配**：adjust the face skin texture to be more like in the reference <<<uuid>>>
+
+
+### 追补 THE_END_TO_THE_BEGINNING（T3 #43）[E800]
+- **生物融合声明**：entirely biological and permanently fused with the creature's anatomy——骨剑手臂+形态排除群（must NOT resemble a claw, talon, hook, finger, tentacle, branch——六排）
+- **原创装备三段**：chest-mounted action camera — entirely original and generic — must not resemble any specific commercial camera design
+- **装备辨析令**：This is NOT a standard protective vest — must unmistakably look like parachute equipment——正名否定
+- **服装拆离法**：Remove the body from the clothes, take the clothes, white background+服装平铺法（completely unfolded…laid completely flat——三件套平铺）
+- **神秘光四不像**：must not resemble a normal spotlight, flashlight, fire, explosion, neon light, or obvious digital effect
+- **建筑崩塌物理**：realistic structural failure — Do NOT make the building explode instantly——结构失效立法
+- **白底定妆照三件**：BACKGROUND: PURE SOLID WHITE. NOTHING ELSE——角色定妆标准件
+- **面部纹身设计对**：free of tattoos（无）vs original geometric abstract shapes following the natural contours（有——随轮廓）

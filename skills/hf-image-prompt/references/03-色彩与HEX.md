@@ -211,3 +211,52 @@ the flooded ground may appear in color.
 > **cold tones for the painful memory, warm ones for the good one**
 **好在哪**：双色温双时间线叙事法。
 **迁移**：回忆/现实分色调；冷暖=情感坐标。
+
+### 色温与多参照色板追补（T3 #66/#81/#82，自旧页生图/02-模型与风格.md 并入）
+### 追补 THE_CABAL（T3 #66）[E823]
+- **Caravaggio chiaroscuro 卡拉瓦乔明暗对照**（大师参照再现）+Warm 2400K candlelight 色温数值+deep shadow behind
+
+
+### 追补 EMBERDANT（T3 #81）[E838]
+- **STYLE LOCK 段+ARRI 激光级色彩科学首例**：STYLE LOCK: Cinematic photoreal live-action epic. Shot on large-format anamorphic, 2.39:1, **ARRI laser-grade colour science**, natural 35mm film grain, **deep true blacks**
+- **PHOTOREALISM LOCK 段**：real human skin with visible pores…photo-real, NOT illustration
+- **双列色板**：cool-toned 九色+**deliberate restrained warm accents**（molten amber/burnt sienna/tarnished gold/blood rust red）——克制暖点四色
+- **火舌舔字缘**：warm ember light **licking the letter edges**——标题字火光+oxblood-red glow 牛血红
+- **禁用其他奇幻 banner**：(Please don't use banner logo from any fantasy film)——版权规避
+
+
+### 追补 BURNING_TOWN（T3 #82）[E839]
+- **四参照声明头**：photo realistic **like Netflix's Love, Death, and Robots**+80s dark fantasies like **Dark Crystal and the Neverending story**+**baroque chiaroscuro painting by Caravaggio**——LDR/黑水晶/大魔域/卡拉瓦乔
+- **三参照混合造型**：from **Arcane**+Dark Crystal+**Into the Spider-Verse**——新三参照组合+simplified with hard edges along the planes 面片硬边简化
+- **艾尔登法环参照**：hand painted but like it belongs in a video game like **Elden Ring**+unreal engine 火焰效果
+- **RPG 内景参照**：like the interior of a video game location like a **Fantasy RPG**+the Black Cauldron《黑神锅传奇》
+- **真实+皮克斯混合风**：a combination of **being real and a pixar 3d animation scene**+prismatic lens flare 棱镜光斑
+- **黑字点火显形标题**：gothic font that's the same black as the background…catches on fire…to make them **legible**——火使字可读
+
+
+
+
+### 追补 CHORNOS（T3 #158）[E917]
+- **HEX VALUES 调色板数组首例（×2）**：HEX VALUES: ['#04070b', …]——数组形式色值清单（行189 十值/行446 九值）——调色板以 JS 数组字面量交付（区别于单色值逐个声明）
+
+
+### 追补 REROUTING（T3 #159）[E918]
+- **百分比配方十变体**：55/25/15/5（主四段）·40/40/15/5（场景）·45/25/15/5·60/25/15·65/25/10·70/20/10·80/15/5·35/50/15·45/40/15·40/45/15——**Chalky grade 四段百分比配方谱系**（产品照 80% cool medium-grey/15% bronze/5% orange 三段特例）
+- **日照百分位十档**：0%/35%/45%/50%/70%/75%/80%/85%/90%/100%——**sunlit surface 声明全档**（0% 室内零日照/100% 满帧日照两端极值）
+- **唯一饱和色+色彩域许可**：5% saturated orange only on the collapsed canopy, **the only saturated colour**——单色点缀论（唯一饱和色×多现）+**画中画色彩豁免**：the inset photo alone allowed more warmth+**蒙太奇饱和例外**：A DEEP CLEAR BLUE SKY, vivid blue sky, gorgeous alpine clarity（主线 chalky vs 蒙太奇面板 vivid——节奏差）+**暖色物理域**：Warmth exists only where the sun physically lands——暖色只许落在阳光物理落点+**唯一绿声明**：The only green of its kind in frame（HIGGSFIELD RISE 绿漆）
+- **色彩渗透禁**：wing colour bleeding onto the wall or other photos 禁——画中画色彩外渗禁（AVOID 段）
+
+
+### 追补 SEVENTY_THREE（T3 #160）[E919]
+- **COLOUR 70-20-10 三段**（401 麦编隧道）：~70% luminous fresh green of the wheat stalks and seed heads; ~20% warm gold from the sunlight glints; ~10% deep cool blue-violet in the shadowed recesses——**绿-金-蓝紫三段配方**（隧道光色）
+- **THE MATERIAL IS PEARLESCENT 材质段头**（7/68）：珠光材质声明——**珠光=材质色域例外**
+
+
+### 追补 THE_LAST_SECOND（T3 #161）[E920]
+- **百分比配色四段 40/30/20/10**：40% cool blue-grey dusk, 30% warm amber interior and aged brass, 20% moss-green tweed, 10% gold accents——四段变体（vs 60:30:10）+moss-green 苔绿+**dirty ivory 脏象牙**+mustard-yellow 芥黄+**三色田块**（amber-brown/olive-green/mustard-yellow）+**三色泥板**（mud browns, faded reds, dull steel greys）
+- **冷暖侧光分工**：cool blue evening street light camera left vs warm amber interior camera right——左右冷暖
+- **单光柱声明**：a **single warm shaft** of low morning sun breaking through a gap in the clouds——**冷暖对比光柱**（唯一暖 vs 冷灰天）
+- **双灯池+硬衰减**：pool of warm brassy-yellow light…the rest falls into deep, cool blue-tinted shadow, **hard falloff**——光池系统
+- **主导大气元素声明**：the pale smoke as **the dominant atmospheric element**——烟雾主导定性
+- **大胆而落地传统声明**：in the gritty naturalistic London-crime-drama tradition of **bold-yet-grounded lighting**——光风格标签（London-crime-drama tradition ×4）
+- **STYLE 段复制粘贴制**：dense true-black/soft roll-off/fine grain/oval bokeh/tactile separation——每条同尾（风格段五件套）
