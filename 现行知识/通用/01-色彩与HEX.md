@@ -250,3 +250,13 @@ the flooded ground may appear in color.
 ### 追补 SEVENTY_THREE（T3 #160）[E919]
 - **COLOUR 70-20-10 三段**（401 麦编隧道）：~70% luminous fresh green of the wheat stalks and seed heads; ~20% warm gold from the sunlight glints; ~10% deep cool blue-violet in the shadowed recesses——**绿-金-蓝紫三段配方**（隧道光色）
 - **THE MATERIAL IS PEARLESCENT 材质段头**（7/68）：珠光材质声明——**珠光=材质色域例外**
+
+
+### 追补 THE_LAST_SECOND（T3 #161）[E920]
+- **百分比配色四段 40/30/20/10**：40% cool blue-grey dusk, 30% warm amber interior and aged brass, 20% moss-green tweed, 10% gold accents——四段变体（vs 60:30:10）+moss-green 苔绿+**dirty ivory 脏象牙**+mustard-yellow 芥黄+**三色田块**（amber-brown/olive-green/mustard-yellow）+**三色泥板**（mud browns, faded reds, dull steel greys）
+- **冷暖侧光分工**：cool blue evening street light camera left vs warm amber interior camera right——左右冷暖
+- **单光柱声明**：a **single warm shaft** of low morning sun breaking through a gap in the clouds——**冷暖对比光柱**（唯一暖 vs 冷灰天）
+- **双灯池+硬衰减**：pool of warm brassy-yellow light…the rest falls into deep, cool blue-tinted shadow, **hard falloff**——光池系统
+- **主导大气元素声明**：the pale smoke as **the dominant atmospheric element**——烟雾主导定性
+- **大胆而落地传统声明**：in the gritty naturalistic London-crime-drama tradition of **bold-yet-grounded lighting**——光风格标签（London-crime-drama tradition ×4）
+- **STYLE 段复制粘贴制**：dense true-black/soft roll-off/fine grain/oval bokeh/tactile separation——每条同尾（风格段五件套）
