@@ -260,3 +260,10 @@ the flooded ground may appear in color.
 - **主导大气元素声明**：the pale smoke as **the dominant atmospheric element**——烟雾主导定性
 - **大胆而落地传统声明**：in the gritty naturalistic London-crime-drama tradition of **bold-yet-grounded lighting**——光风格标签（London-crime-drama tradition ×4）
 - **STYLE 段复制粘贴制**：dense true-black/soft roll-off/fine grain/oval bokeh/tactile separation——每条同尾（风格段五件套）
+
+
+### 追补 THE_WEIGHT_OF_OUR_STEPS（T3 #162）[E921]
+- **60:30:10 五现具体化**（indigo night/tungsten/blue-white·rust-ochre/bone/olive·indigo-black/tungsten/**ember orange 余烬橙**·burnt amber/umber/dusty blue·rust/bone-grey deadwood/bleached——**五场景五配比**）+**55/35/10 新配比**
+- **准双色调声明**：**near-duotone**+**3% 点缀**（butterfly amber as a single 3% accent）+**暖浮黑声明**（Blacks sit warm and lifted by dust）+**暖非中性黑**（Deep blacks that stay slightly warm, never neutral）
+- **三级渐变天空**（warm ivory→dusk VIOLET→charcoal——底到顶三色渐进）+**首暖点声明**（The colour turns here. **First warmth in the film.**——色彩转折点段头）+**光爬声明**（The amber light at the top of frame has **crept a little lower**——光缓下移）
+- **PRACTICALS ONLY 色彩立法**（practical light sources IN FRAME 清单+六禁灯光）+**60:30:10 与 #160 跨项目确认**（连续三项目同公式）
