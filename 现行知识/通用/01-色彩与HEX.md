@@ -245,3 +245,8 @@ the flooded ground may appear in color.
 - **日照百分位十档**：0%/35%/45%/50%/70%/75%/80%/85%/90%/100%——**sunlit surface 声明全档**（0% 室内零日照/100% 满帧日照两端极值）
 - **唯一饱和色+色彩域许可**：5% saturated orange only on the collapsed canopy, **the only saturated colour**——单色点缀论（唯一饱和色×多现）+**画中画色彩豁免**：the inset photo alone allowed more warmth+**蒙太奇饱和例外**：A DEEP CLEAR BLUE SKY, vivid blue sky, gorgeous alpine clarity（主线 chalky vs 蒙太奇面板 vivid——节奏差）+**暖色物理域**：Warmth exists only where the sun physically lands——暖色只许落在阳光物理落点+**唯一绿声明**：The only green of its kind in frame（HIGGSFIELD RISE 绿漆）
 - **色彩渗透禁**：wing colour bleeding onto the wall or other photos 禁——画中画色彩外渗禁（AVOID 段）
+
+
+### 追补 SEVENTY_THREE（T3 #160）[E919]
+- **COLOUR 70-20-10 三段**（401 麦编隧道）：~70% luminous fresh green of the wheat stalks and seed heads; ~20% warm gold from the sunlight glints; ~10% deep cool blue-violet in the shadowed recesses——**绿-金-蓝紫三段配方**（隧道光色）
+- **THE MATERIAL IS PEARLESCENT 材质段头**（7/68）：珠光材质声明——**珠光=材质色域例外**
