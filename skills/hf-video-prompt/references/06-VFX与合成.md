@@ -395,3 +395,10 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **岩设七件金句**：massive natural **cliff wall**/vertically dominant/Natural weathering/Irregular cracks/Natural erosion/Rough stone texture/Physically realistic geology——岩壁七要素+**纪念碑尺度金句**（monumental sense of scale）。
 - **天然天盆金句**：**an OPEN NATURAL BASIN** surrounded by massive vertical rock walls+**天开金句**（NIGHT SKY IS CLEARLY VISIBLE DIRECTLY ABOVE 大写）+**恒见天金句**（The sky must **always remain visible**）+五无顶金句——**穹顶禁律**。
 - **天幕声明族**：拟天科技（#167）与天然天盆（#168）对照——人造天穹 vs 自然天盆两种天空叙事。
+
+
+### [E928 · #169] 道具与屏显新制
+- **4:17/WORK 来电叠加金句**："Provide a clean, trackable glimpse of the display for a later 4:17 / WORK incoming-call overlay. Do not invent readable phone lettering."——**片名 4:17 来源=来电显示**；屏显预留后期叠加、禁生成可读 UI。
+- **屏换预留金句**（道具参考表）："Keep the screen surface unobstructed and clearly defined for later screen replacement."——黑屏预留后期换屏。
+- **吊灯碎裂声谱**：一発の銃声→シャンデリアの一部が砕け→クリスタルの破片が光を受けながら落ちる→照明の本体は天井に残り、一部の灯りだけが消える——半残照明（店全体真っ暗にならない）。
+- **一色に染めない金句**（画面全体を一色に染めない/no uniform neon wash）+**局部路灯金句**（localized streetlight）。

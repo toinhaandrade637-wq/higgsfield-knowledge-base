@@ -300,3 +300,10 @@ the flooded ground may appear in color.
 - **蝶色三拼+七 Never 金句**（另录视频08）。
 - **蓝黑天空术语**：**Dark blue-black** night sky/atmosphere——夜空蓝黑标准色。
 - **金合欢剪影**：distant **acacia trees** appear softly through atmospheric haze——远景树群。
+
+
+### [E928 · #169] 色彩新制
+- 片名图 #000000 纯黑底十六进制；夜景三色域：琥珀の街灯（amber streetlights）/赤い看板（red signage）/青白い光（pale blue-white）——青黒い夜の東京+**一色不染金句**（画面全体を一色に染めない / no uniform orange or red wash）。
+- 酒金琥珀（amber liquor）+深バーガンディ（deep burgundy velvet）+コールグレー（cool gray-blue mirrors）——**酒金/ burgundy/灰蓝三色店**。
+- 病态绿荧光（sickly green practical fluorescence）→湿蓝黑外景（wet blue-black outside）——**绿→蓝黑逃亡色弧**。
+- 珠光白（pearl-white sedan）/暖蜜金（warm honey-beige blonde）/香槟金（champagne-peach dress 四色间金句：champagne, warm peach, pale apricot, and subtle rose-gold）。
