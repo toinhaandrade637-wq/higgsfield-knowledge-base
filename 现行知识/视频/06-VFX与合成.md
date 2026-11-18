@@ -402,3 +402,17 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **屏换预留金句**（道具参考表）："Keep the screen surface unobstructed and clearly defined for later screen replacement."——黑屏预留后期换屏。
 - **吊灯碎裂声谱**：一発の銃声→シャンデリアの一部が砕け→クリスタルの破片が光を受けながら落ちる→照明の本体は天井に残り、一部の灯りだけが消える——半残照明（店全体真っ暗にならない）。
 - **一色に染めない金句**（画面全体を一色に染めない/no uniform neon wash）+**局部路灯金句**（localized streetlight）。
+
+
+### [E929 · #170] 道具与物理新制
+- **蝇法三段谱**：蝇法金句 THE FLY LAW flies are on the small dead animal in numbers and on the man's body Both are dead and both have flies——蝇群首现金句 for the first time in this entire film flies are on the animal IN NUMBERS——蝇法兑现金句 (clue one and this is its payoff)——蝇数收敛金句 EXACTLY ONE OR TWO FLIES total must be UNDERSTATED——蝇限半框金句 they stay in HIS half of the frame——蝇脸拍金句 A FLY SETTLES ON HIS CHEEK AND HE LIFTS A HAND——蝇上唇金句+无反应=点金句 That absence is the point of the shot——蝇落人不落驼对照谱。
+- **皮记忆褶金句**：holding the memory of the shapes it has been packed into——皮革保留曾经装满的形状。
+- **锤面金句**：Faint hammer facets across the shoulder from the beating——hand-beaten brass 锤打黄铜——焊缝金句 A soldered seam runs up one side。
+- **铜绿金句**：Dark green-brown patina the verdigris of years never bright never uniform——verdigris 铜绿术语。
+- **软硬金属光对比金句**：catches light the way soft metal does warm diffused highlights rather than hard white specular quite unlike steel——软金属光金句——锡硬光金句。
+- **若大则败金句**：SIZE ANCHOR ABSOLUTE If it reads as large the asset has failed——尺寸锚段头。
+- **实绳水金句**：it pours in a solid rope from the lota breaks over his hands runs down his forearms——水=实绳金句——慷慨倒水声金句。
+- **舌润无益金句**：He runs a dry tongue over his split lips and it does not help。
+- **入裂金句**：spreading into the split skin rather than beading on top or running off。
+- **微错形金句**：slightly wrong in shape against the pale dunes。
+- **俯图形化金句**：From this height the figures read as flat graphic shapes the turban a dark red circle the jhool a dusty rust rectangle the canisters four dark squares——头巾=圆/jhool=矩形/罐=四方块。

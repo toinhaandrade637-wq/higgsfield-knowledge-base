@@ -307,3 +307,14 @@ the flooded ground may appear in color.
 - 酒金琥珀（amber liquor）+深バーガンディ（deep burgundy velvet）+コールグレー（cool gray-blue mirrors）——**酒金/ burgundy/灰蓝三色店**。
 - 病态绿荧光（sickly green practical fluorescence）→湿蓝黑外景（wet blue-black outside）——**绿→蓝黑逃亡色弧**。
 - 珠光白（pearl-white sedan）/暖蜜金（warm honey-beige blonde）/香槟金（champagne-peach dress 四色间金句：champagne, warm peach, pale apricot, and subtle rose-gold）。
+
+
+### [E929 · #170] 色彩与色温新制
+- **沙漠三色域金句**：deep crimson-red safa——唯一饱和色金句 the ONLY saturated color in the entire image——暖尘褐 WARM DUSTY OCHRE-BROWN——冷蓝灰 COOL PALE BLUE-GREY DUSTY SKY——红褐蓝灰三色法金句再现+暖冷分异金句 That warm-against-cool split is what separates this from every other desert thumbnail。
+- **青蓝夜空金句再现+双色沙金句再现+尘帘金句再现+暮渐变三段金句再现+尘埃玫瑰金句再现+刚沉光带金句再现**。
+- **天尘金句**：open sky-dust not empty canvas——天尘非画布金句——25-30% 顶空金句。
+- **暖黑金句再现**：Deep shadow that is warm never black。
+- **暖尘带金句再现**：The horizon is dissolved into a warm luminous haze band。
+- **屏弃毒禁金句+屏弃板金句再现**。
+- **十六进制色值金句再现**：#EDE6DA——骨白蛋壳金句 warm bone / eggshell——非纯白金句 never pure white。
+- **师承金句+师承谱金句再现**。
