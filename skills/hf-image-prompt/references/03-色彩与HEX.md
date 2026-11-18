@@ -288,3 +288,15 @@ the flooded ground may appear in color.
 - **一瞬白金金句**：「all transforming **from orange to clean natural white-gold in one instant**」+蓝紫合金句（an extraordinary combined blue and violet light register）。
 - **金静金句**（TIER THREE）：SFX 尾「rain on glass canopies, **gold quiet**」——**金=静**的通感收尾。
 - **血色分类双锁金句**：「All blood on human and human-adjacent characters is **dark red only**. Dark green acid from Korvok is **dark green only — never red.**」——双血色分离锁。
+
+
+### [E927 · #168] 色彩新制
+- **金转蓝暮金句**：from warm late afternoon into **deep blue twilight**——金→蓝暮光色温弧。
+- **暖黄绿脉冲金句**（萤火虫）：warm **yellow-green light gently pulses**——生物光色。
+- **蓝绿光金句**（萤火虫洞）：soft **blue-green** points of light——洞内萤光。
+- **琥珀眼金句**：warm **amber eyes**——狮眼琥珀色。
+- **金褐毛金句**：**golden-tan fur**——狮毛金褐（tan 术语）。
+- **古金/香槟金双名金句**：**antique-gold / champagne-gold** metallic——片名金属色双名。
+- **蝶色三拼+七 Never 金句**（另录视频08）。
+- **蓝黑天空术语**：**Dark blue-black** night sky/atmosphere——夜空蓝黑标准色。
+- **金合欢剪影**：distant **acacia trees** appear softly through atmospheric haze——远景树群。

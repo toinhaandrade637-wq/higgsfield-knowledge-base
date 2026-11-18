@@ -381,3 +381,17 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **半球冲击金句**（献音室）：「a **perfect geometric sphere**…**exactly half the bedroom radius**, the sphere's hard geometric boundary stopping at precisely the halfway point」+触毁金句（Everything the sphere physically contacts destroyed simultaneously…**the intact half untouched**）+净线金句（**The destruction line perfectly clean** at the sphere's radius）。
 - **能量个体光金句**：亡灵红眼「as **individual practical light sources** throughout the tunnel walls」——群体光点化。
 - **黑光金句**（赌场）：「every surface dark **until the UV hits it**, then it blazes electric blue and white」——紫外即显。
+
+
+### [E927 · #168] 自然 VFX 新制（生物物理约束）
+- **草物理段头金句**（IMPORTANT GRASS PHYSICS）：Individual blades bend/Separate/**fold** and sway+**草不速静金句**（does NOT instantly become perfectly still）+**草复原声明金句**（does not remain visibly flattened…stays dense and naturally upright）+**草缓金句**（When the hyenas slow down, the grass gradually settles）+**快慢回金句**（Some blades **return upright quickly**. Other blades continue swaying for a little longer）。
+- **草不铺路六禁金句**：disturbed vegetation must **NEVER create a path**——NO flattened pathway/track/corridor/lane/trail/cleared strip——扰动不成径。
+- **全野动画四禁金句**：Do NOT animate the entire field/Do NOT create synchronized waves/Do NOT make the grass **ripple like water**/Do NOT create artificial patterns。
+- **本地响应金句**：real tall grass **responding locally to real animals moving through it**——局部响应=真实感判据。
+- **草物理再升**：**bend, separate, fold and sway** 四动词+**振荡术语金句**（blades continue **oscillating** and slowly settle）。
+- **萤火虫星空金句**：THOUSANDS OF TINY BIOLUMINESCENT GLOWWORMS…**a breathtaking natural starfield**——生物光源星空化+**唯一光源声明**（The glowworms provide **the only illumination**）+**无法辨界金句**（impossible to tell where the cave begins or ends）。
+- **粒子三禁金句**：fireflies must NOT appear as **particles**/NOT form **geometric patterns**/NOT create **large glowing masses**——生物光禁粒子化。
+- **融入金句**：The single firefly visually **blends into the larger natural population**——主角虫融入种群（收束手法）。
+- **岩设七件金句**：massive natural **cliff wall**/vertically dominant/Natural weathering/Irregular cracks/Natural erosion/Rough stone texture/Physically realistic geology——岩壁七要素+**纪念碑尺度金句**（monumental sense of scale）。
+- **天然天盆金句**：**an OPEN NATURAL BASIN** surrounded by massive vertical rock walls+**天开金句**（NIGHT SKY IS CLEARLY VISIBLE DIRECTLY ABOVE 大写）+**恒见天金句**（The sky must **always remain visible**）+五无顶金句——**穹顶禁律**。
+- **天幕声明族**：拟天科技（#167）与天然天盆（#168）对照——人造天穹 vs 自然天盆两种天空叙事。
