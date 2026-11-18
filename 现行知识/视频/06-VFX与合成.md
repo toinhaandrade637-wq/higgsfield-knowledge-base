@@ -416,3 +416,13 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **入裂金句**：spreading into the split skin rather than beading on top or running off。
 - **微错形金句**：slightly wrong in shape against the pale dunes。
 - **俯图形化金句**：From this height the figures read as flat graphic shapes the turban a dark red circle the jhool a dusty rust rectangle the canisters four dark squares——头巾=圆/jhool=矩形/罐=四方块。
+## #171 DON_CHENTE_S_ABDUCTION（E930）
+
+- **能量场条款**：`its four sides and top formed entirely by a shimmering translucent lavender-violet energy field…held by four chrome corner struts`+`The barrier remains a shimmering translucent field throughout, never solid`——能量场恒闪烁禁实体。
+- **能量场熄灭**：`The shimmering energy field of the enclosure flickers and deactivates completely, vanishing`+`not an instant disappearance`——闪烁熄灭禁瞬消。
+- **compositing 留白**：`The composition leaves clear open space in the lower-middle to foreground area of the frame, suitable for compositing a spacecraft silhouette in the foreground later`——板留空待合成。
+- **意大利面星星**：`las estrellas se deforman alargandose como espaguetis a consecuencia de el salto al hiper espacio`——超空间星体拉伸比喻。
+- **紫血条款**：`The alien blood is purple, never red`——外星血色锁定。
+- **大气生热**：`genera energia cinetica con calor al aproximarse a la tierra`+`desprende fuego…poco a poco se empieza a ver el cielo azul`——再入生热渐蓝。
+- **机械幕启**：`abruptamente se abre una cortina metalica rapidamente de abajo hacia arriba`——下升金属帘。
+- **反作用力位移**：`la velocidad lo empuja hacia atras, con rostro de esfuerzo`——加速后仰。

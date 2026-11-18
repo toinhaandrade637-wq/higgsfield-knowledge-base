@@ -318,3 +318,11 @@ the flooded ground may appear in color.
 - **屏弃毒禁金句+屏弃板金句再现**。
 - **十六进制色值金句再现**：#EDE6DA——骨白蛋壳金句 warm bone / eggshell——非纯白金句 never pure white。
 - **师承金句+师承谱金句再现**。
+## #171 DON_CHENTE_S_ABDUCTION（E930）
+
+- **舰队六色语言**：pearl-white/ivory/pale cream 主+dusty-rose/pale-yellow 陪+lavender crystal 光+chrome 细节——六件套逐色点名，跨 40+ 板全一致。
+- **red-only 局部色**：`Only the lavender crystal wall fixtures pulse red`——红仅存于指定灯件。
+- **deep-red trim**：`restrained deep-red faction-crest inlay used sparingly as ceremonial trim rather than dominant color`——派系红禁主导。
+- **magenta-gold-violet 星球**：`swirling bands of vivid color — deep magenta, warm gold, soft rose and pale violet`——气体巨星四色。
+- **夜场三色**：cool blue-black 环境+warm golden 窗光+pale gold and magenta 船灯——夜 Ranch 三光源。
+- **X 光色**：`estilo rayos X` 骨骼闪变白——无色化瞬间。
