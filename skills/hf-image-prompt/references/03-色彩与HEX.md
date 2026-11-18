@@ -326,3 +326,10 @@ the flooded ground may appear in color.
 - **magenta-gold-violet 星球**：`swirling bands of vivid color — deep magenta, warm gold, soft rose and pale violet`——气体巨星四色。
 - **夜场三色**：cool blue-black 环境+warm golden 窗光+pale gold and magenta 船灯——夜 Ranch 三光源。
 - **X 光色**：`estilo rayos X` 骨骼闪变白——无色化瞬间。
+## #172 MISTER_M（E931）
+
+- **金黑双色空间**：złota tapeta 金壁纸/黑 marmur 黑石板/złote świeczniki 金烛台/złote drzwi 金门——维多利亚哥特金黑系。
+- **bordowa 波尔多壁纸**：`jednolitą, bordową tapetą`——酒红壁纸空间变体。
+- **白像红眼对比**：白色石像群+黑暗中红色双目——全片两大色彩符号。
+- **dark violet 紫帘马车**：`ciemnofioletowe kotary`——车帘紫。
+- **红镜片眼镜**：`okrągłe okulary o czarnych oprawkach i czerwonych szkłach`——黑框红片身份锚。

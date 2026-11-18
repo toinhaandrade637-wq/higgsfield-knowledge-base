@@ -426,3 +426,11 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **大气生热**：`genera energia cinetica con calor al aproximarse a la tierra`+`desprende fuego…poco a poco se empieza a ver el cielo azul`——再入生热渐蓝。
 - **机械幕启**：`abruptamente se abre una cortina metalica rapidamente de abajo hacia arriba`——下升金属帘。
 - **反作用力位移**：`la velocidad lo empuja hacia atras, con rostro de esfuerzo`——加速后仰。
+## #172 MISTER_M（E931）
+
+- **石化特效**：`zamienianą w szary kamień`（进行时）→`biały kamienny posąg`（完成态）——灰化→白化两态。
+- **黑暗红眼**：`Nagle gasną wszystkie światła…W kompletnej ciemności jarzy się para płonących, pełnych wściekłości oczu`——全灭+唯眼双段（jarzy się 燃烧态眼睛）。
+- **渐暗收束**：`scena się przyciemna aż pogrąża się całkowitej ciemności`——渐暗至全黑。
+- **烛光逐次亮起**：`Świeczki zapalają się jedna po drugiej`——逐帧点烛揭示（全亮版 wsystkie świece 为变体）。
+- **黑中声先行**：`W kompletnej ciemności słychać odgłosy chaotycznych strzałów i głośnych męskich krzyków`——视觉先灭听觉先行。
+- **烟雾散去**：`Dym po wystrzał opada`——枪烟沉降开场。
