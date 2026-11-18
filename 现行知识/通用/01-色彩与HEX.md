@@ -267,3 +267,12 @@ the flooded ground may appear in color.
 - **准双色调声明**：**near-duotone**+**3% 点缀**（butterfly amber as a single 3% accent）+**暖浮黑声明**（Blacks sit warm and lifted by dust）+**暖非中性黑**（Deep blacks that stay slightly warm, never neutral）
 - **三级渐变天空**（warm ivory→dusk VIOLET→charcoal——底到顶三色渐进）+**首暖点声明**（The colour turns here. **First warmth in the film.**——色彩转折点段头）+**光爬声明**（The amber light at the top of frame has **crept a little lower**——光缓下移）
 - **PRACTICALS ONLY 色彩立法**（practical light sources IN FRAME 清单+六禁灯光）+**60:30:10 与 #160 跨项目确认**（连续三项目同公式）
+
+
+### 追补 AURA（T3 #163）[E922]
+- **渐变虚空三色 HEX**：**#1FA6A0** jade turquoise（中心）→**#0D5C63** blue-green（外框）→**#8FE0D6** pale aqua（内圈渐亮）——GRADIENT VOID 三色公式（isolated void 隔离背景全案）
+- **叶龙 HEX 四色**：**#C97A3D** warm burnt orange / **#D9A342** deep gold / **#8B5A2B** rich umber-brown（叶体三层）/ **#F2C572** soft warm amber-gold（眼光）——+**光与物区分制金句**（distinct enough from the leaf colors to stay clearly visible **as light rather than another leaf**）
+- **60:30:10 跨项目三现具体化**：Hold roughly **60% greens, 30% jade water and gold sky, 10% character accents**（连续三项目同公式——#161/#162/#163）
+- **漫画三色体系**：warm golden-hour amber（光）+ deep teal-blue（影）+ **single hot magenta-pink**（comic accent graphics 专用——speed lines/impact bursts/sparkle glints 三图形限定一色）+**热洋红镜光**（hot magenta-pink lens glint）
+- **彩色阴影跨项目确认**：Shadows must remain **chromatic**. Avoid gray or black-only shading（jade/turquoise/navy/crimson/violet/deep brown/burnt orange 七色阴影结构）+**暗区五色**（Dark areas may contain visible red, violet, navy, emerald, and brown pigment **rather than flat black**）+**互补污染**（warm pigment within cool regions, cool pigment inside warm highlights——冷暖互染）+**深彩阴影**（deeply chromatic rather than neutral）
+- **三 NO 打光禁令**：**NO harsh black cast shadows. NO polished three-point CGI illumination. NO neon rim-light cliché.**——三点式打光禁+霓虹轮光俗套禁
