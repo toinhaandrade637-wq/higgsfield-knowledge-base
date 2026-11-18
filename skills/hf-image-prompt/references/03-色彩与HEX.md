@@ -276,3 +276,15 @@ the flooded ground may appear in color.
 - **漫画三色体系**：warm golden-hour amber（光）+ deep teal-blue（影）+ **single hot magenta-pink**（comic accent graphics 专用——speed lines/impact bursts/sparkle glints 三图形限定一色）+**热洋红镜光**（hot magenta-pink lens glint）
 - **彩色阴影跨项目确认**：Shadows must remain **chromatic**. Avoid gray or black-only shading（jade/turquoise/navy/crimson/violet/deep brown/burnt orange 七色阴影结构）+**暗区五色**（Dark areas may contain visible red, violet, navy, emerald, and brown pigment **rather than flat black**）+**互补污染**（warm pigment within cool regions, cool pigment inside warm highlights——冷暖互染）+**深彩阴影**（deeply chromatic rather than neutral）
 - **三 NO 打光禁令**：**NO harsh black cast shadows. NO polished three-point CGI illumination. NO neon rim-light cliché.**——三点式打光禁+霓虹轮光俗套禁
+
+
+### [E926 · #167] 色彩/调色新制
+- **钢蓝基底声明金句**：「desaturated **steel-blue and slate-grey base palette** with small isolated saturated neon accents」+暖 amber practical 三层结构。
+- **五驱动光声明**：「All light **motivated by the environment** — sodium, neon, muzzle flash, screen glow, blue optic sweep」——**钠灯术语首录**+五种环境驱动光。
+- **色洗金句**：「blurring completely behind her into **a wash of color and light**」。
+- **三层光环境金句**：「a **three-layer light environment** at the finish line」——霓虹上+板光下+闪光侧。
+- **四色混主纹金句**：「the **four-color mix in the wet pavement the dominant visual texture** of the race」——板色（NEON GREEN/ELECTRIC BLUE/DEEP RED/HOT ORANGE）反射即纹理。
+- **四音金句**：「four distinct thruster tones corresponding to the four board colors…**the neon green board thruster slightly higher in pitch**」——色彩-音高映射。
+- **一瞬白金金句**：「all transforming **from orange to clean natural white-gold in one instant**」+蓝紫合金句（an extraordinary combined blue and violet light register）。
+- **金静金句**（TIER THREE）：SFX 尾「rain on glass canopies, **gold quiet**」——**金=静**的通感收尾。
+- **血色分类双锁金句**：「All blood on human and human-adjacent characters is **dark red only**. Dark green acid from Korvok is **dark green only — never red.**」——双血色分离锁。

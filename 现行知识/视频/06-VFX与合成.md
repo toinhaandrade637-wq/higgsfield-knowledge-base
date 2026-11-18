@@ -370,3 +370,14 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **面包光岛金句**：**two slow banks of black haze**…At **a hand's width from the crust** both banks **STOP, held by nothing visible**…**a clean island of warm light in the shape of the loaf's glow**, steam still rising untouched inside it——双岸夹逼+一掌宽止步+光岛+**日出雾退金句**（thins and pulls back **like mist at sunrise**）
 - **LATCH 面粉负空间标题卡双机制**：**负空间标题金句**（revealed in the flour **as NEGATIVE SPACE** — the letters are bare dark wood where no flour lies）+**字形参考锁**（the tail of the L extended into a long curved sweep）+**两种显形机制**（**冲击波刮出** the surface **scoured down** in clean shapes to bare dark wood / **落粉沉积** the letters stand open in it as bare dark wood——同一标题两种物理成因）+FRAMING RULE 段头+**No other text 唯一文字声明**
 - **面粉穿光金句**：the particles **blazing white as they cross the beam** and **vanishing into shadow** on either side of it——光带白燃影灭+**散成单粒**（thins away into **single drifting motes**）+**面粉波冲声**（the dry **rush** of a flour wave crossing the boards）
+
+
+### [E926 · #167] VFX/能量体系
+- **拟天金句**（破穹）：「the specific visual of **something technological pretending to be sky**」+码格声明（fine grid of light beneath）+楼级码片金句（shards **the size of buildings**…the code structure visible in each shard）+一帧天换金句（orange replaced by clean blue midday sky **in a single instant**）。
+- **活字自书金句**（塔尔塔利亚）：「ancient living text **writing itself across bare skin** in warm golden light — line by line, character by character」+**双层同燃金句**（deep red Egyptian beneath and golden Maya script above, both blazing simultaneously）+**纹越界金句**（tattoos **crossing the boundary between skin and metal**）。
+- **逆愈金句**：「The cuts **closing in reverse** — each cut sealing from the center outward…the damage **undoing itself visibly**」+金线封裂金句（crack sealing with **a thin warm golden line that fades**）。
+- **拔羽体系**：非脱是撕金句（**not a clean detachment, a brutal ripping**）+白缝光裂金句（white seam light **shattering**）+着体红露金句（dark red where the armor **was integrated into the body beneath**）+逐羽残忍金句（**not in handfuls**…each feather grabbed **individually**）+颈环灭金句（white luminescence **cutting to nothing**——the most dramatic tone cut）。
+- **天幕码格**：数字天穹段头+层叠透码墙（wall filling edge to edge **no visible top or bottom or sides**）。
+- **半球冲击金句**（献音室）：「a **perfect geometric sphere**…**exactly half the bedroom radius**, the sphere's hard geometric boundary stopping at precisely the halfway point」+触毁金句（Everything the sphere physically contacts destroyed simultaneously…**the intact half untouched**）+净线金句（**The destruction line perfectly clean** at the sphere's radius）。
+- **能量个体光金句**：亡灵红眼「as **individual practical light sources** throughout the tunnel walls」——群体光点化。
+- **黑光金句**（赌场）：「every surface dark **until the UV hits it**, then it blazes electric blue and white」——紫外即显。
