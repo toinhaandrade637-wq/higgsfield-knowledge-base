@@ -467,3 +467,10 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **蝴蝶碎翅象征场**（行263 seedance_2_0）：`asas vão quebrando e caindo pedacinhos…ela vai perdendo as forças até cair no chão, debatendo com as asas que sobrou`——分段解体+残翅挣扎。
 - **月食阶段演化**（行317）：`a lua cobre metade do sol ainda, a lua esta indo pra esquerda, faça as nuvens em uma posição diferente`——**天象进度+云位重排**双变量推进。
 - **坠落如雷**（行381）：`cada vez que ele cai, mais ele pega fogo e grita…faz um rastro longo`——坠落过程累计伤害叙事。
+## 撞玻璃与翻车物理（#177 SEVEN_MINUTES_LEFT）
+
+- **双尸撞玻璃**（119/390）：`ravenously hungry reanimated corpses are already in their final rush toward the pane`——饿极修辞+已在进行中开场。
+- **玻璃破坏计数控**（464-465）：`Initial fracture points: two, each caused at a separate visible contact…Heavy blows in SHOT 2: exactly six`——裂缝网络计数（two fracture networks grown and begun connecting）。
+- **翻车前奏链**（121：confrontation, siren, rollover）→474 翻定后 geometry——**翻车三段时序**（对峙→侧翻→翻定）。
+- **板随门动**（416 族：`The boards do not block the doorway independently; they are physically attached to the door itself and move with it`）——**钉板物理归属**（板=门组件非门框组件）。
+- **siren 闷化**（474：`physically muffled and distorted by the vehicle resting on its side`）——声学随车体姿态变化。
