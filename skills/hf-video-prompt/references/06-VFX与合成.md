@@ -474,3 +474,12 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **翻车前奏链**（121：confrontation, siren, rollover）→474 翻定后 geometry——**翻车三段时序**（对峙→侧翻→翻定）。
 - **板随门动**（416 族：`The boards do not block the doorway independently; they are physically attached to the door itself and move with it`）——**钉板物理归属**（板=门组件非门框组件）。
 - **siren 闷化**（474：`physically muffled and distorted by the vehicle resting on its side`）——声学随车体姿态变化。
+## 皮下光与能量语言（#178 SHADE & FADE）
+
+- **皮下红光双律**（103/429：`FAINT RED LIGHT UNDER THE SKIN…light beneath the surface, never a painted glow on top, never drawn veins, never an aura`）。
+- **双色不混制**（11/12/16/24：SHADE GREEN 右手/FADE AMBER-GOLD 左手——`The two colours never blend into each other and neither turns white`——**双刀色彩原子化**）。
+- **红能量裂缝**（429：RED ENERGY RUNS IN THE CRACK LINES spreading outward——裂纹=能量通道）。
+- **碎玻璃悬浮云**（449：hundreds of individual shards hanging motionless, each one catching a hard specular highlight）。
+- **Shockwave ring**（429：CIRCULAR SHOCKWAVE OF RED ENERGY…lifting a low wave of dust）。
+- **NO sparks 石咬声明**（26）+**NO shockwave ring 禁**（348 FORBIDDEN——普通踢禁冲击波）。
+- **能量充能两版冲突实录**（421 energy blast 版 vs 全片 NO supernatural power 禁令——**同一项目内画风分层实录**）。
