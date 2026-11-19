@@ -483,3 +483,12 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **Shockwave ring**（429：CIRCULAR SHOCKWAVE OF RED ENERGY…lifting a low wave of dust）。
 - **NO sparks 石咬声明**（26）+**NO shockwave ring 禁**（348 FORBIDDEN——普通踢禁冲击波）。
 - **能量充能两版冲突实录**（421 energy blast 版 vs 全片 NO supernatural power 禁令——**同一项目内画风分层实录**）。
+## VFX 与环境（#179 SHARDS OF WHEN）
+
+- **PORTAL 8 拍白闪转场**（1-106：八拍白闪门过渡——转场拍数化）。
+- **光束 redirects**（1-106：Nyra beam redirect——光束转向弹反）。
+- **坍塌物理族**：massive ruined column deliberately brought down（72）+platform 塌陷（121/127）——巨物坍塌=敌人武器化地形。
+- **雨环境**（97/494：Three Hunters emerge through the rain）+湿石（199：boots hammer across wet ancient stone, water splashes）。
+- **文明穹顶飞船**（282 PULLING INTO SPACE：`colossal circular spacecraft, central transparent dome containing the civilization, enormous concentric ring[s]`）——飞船=携带文明设定。
+- **环形行星**（210：the Ringed Planet — with a wide ring system——ASSET BINDING 语义绑定）。
+- **金属长廊场景参照**（284：CHAMBER CORRIDOR / CEREMONIAL ENTRANCE — long elevated metallic corridor, reflective dark floor, glass railings）。
