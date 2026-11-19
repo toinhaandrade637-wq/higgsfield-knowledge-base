@@ -522,3 +522,7 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **烟转场桥接**（14 族 smoke transition bridge——首尾帧烟转场）。
 - **删猫填景**（391/420 video_edit：Remove only the black cat from the shot. Delete the black cat and nothing else. Fill the small area…with a natural continuation of whatever kitchen surface is directly behind it——**删物+自然延续填景**）。
 - **升清三不**（268/270/389/393：Upscale and enhance clarity without modifying any details, composition, or colors——**升清三不声明**；**sunburst 模型承接 82c 升清**）
+## 海报与包装（#184 SIMPLE THINGS）
+
+- **三比例海报族**（21/28：9:16 vertical；27：16:9 YouTube thumbnail；29：21:9 ultra-wide——**竖版/横版/超宽三比例**+**YouTube 缩略图版式首例**）。
+- **裸 UUID 三连海报**（21/27/28/29：三 UUID 连排+poster——**UUID 群+版式**）
