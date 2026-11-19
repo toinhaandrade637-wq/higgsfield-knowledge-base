@@ -333,3 +333,11 @@ the flooded ground may appear in color.
 - **白像红眼对比**：白色石像群+黑暗中红色双目——全片两大色彩符号。
 - **dark violet 紫帘马车**：`ciemnofioletowe kotary`——车帘紫。
 - **红镜片眼镜**：`okrągłe okulary o czarnych oprawkach i czerwonych szkłach`——黑框红片身份锚。
+## #173 NIGHTBLOOM（E932）
+
+- **PALETTE 段头**：`70% deep black / 20% warm amber / 10% cold white`——暗黑奇幻三色配方。
+- **黑玄武岩世界**：columnar basalt 柱状玄武岩（台阶 worn smooth in the middle by long use）+wet black volcanic stone。
+- **液光金琥珀**：warm amber liquid light inside pods——果荚内光。
+- **rose-gold 链色**：rose-gold rope chain。
+- **catch-lights 双点**：眼部双反光点声明。
+- **胶片锚**：Kodak Vision3 250D/500T+WB 谱 1900/3200/4000/4500/5600/6000/9000K。

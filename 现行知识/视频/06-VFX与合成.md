@@ -434,3 +434,13 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **烛光逐次亮起**：`Świeczki zapalają się jedna po drugiej`——逐帧点烛揭示（全亮版 wsystkie świece 为变体）。
 - **黑中声先行**：`W kompletnej ciemności słychać odgłosy chaotycznych strzałów i głośnych męskich krzyków`——视觉先灭听觉先行。
 - **烟雾散去**：`Dym po wystrzał opada`——枪烟沉降开场。
+## #173 NIGHTBLOOM（E932）
+
+- **果荚剥开金句**：`splits along its veins and peels open`——never shatters 禁碎裂（有机剥开非爆裂）。
+- **液光恒常金句**：`the light does not switch on — it simply gets stronger`+`The light inside a pod only moves position, never changes in strength`+no pod ever dims, fades, flickers, darkens or goes out 五连禁。
+- **THE POD IS A LIGHT SOURCE, ALWAYS 段头**：`It is NEVER a dull pale husk` 三连否定+GLOWS SOFTLY THROUGH THE CLOTH FOR THE WHOLE SHOT——布透光恒定。
+- **白眼渐变**：`green drains out of the iris and a cold white creeps outward from the pupil`+gradual 1.5s never snaps+matte and dead 版（eyeshine 版本冲突）。
+- **花捏灭**：`crushes the flower tightly inside its palm+The petals fold, tear and collapse naturally`。
+- **影子局部制**：`Show only a partial, distorted shadow. Do not display a clearly outlined full-body silhouette`。
+- **双光源分级**：`Two separate warm sources at different strengths`+`two separate lights of two different characters on the same body`——拳果 4500K vs 肩袋 dimmer。
+- **光从地面来**：`All the light comes from BELOW, from a source on the ground that is never visible in frame`。
