@@ -460,3 +460,10 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **皮影戏暴力转喻 v2**：THIS IS A SHADOW PLAY ON PLASTER+**The two shadows do NOT touch and do not overlap — a clear gap of moonlit plaster stays between them**——影间空隙声明。
 - **弹丸追踪全案**：**the camera LOCKS ONTO THE PELLET and TRACKS IT in flight**+**a true tracking shot on a projectile, not a pan** 金句+**The ball is soft lead and heavy for its size: it deforms on impact instead of shattering** 软铅变形+**This is a simple round air-gun ball, NOT a bullet**+**the flat dry SMACK of lead into hard wood** 大写拟声。
 - **淤伤谱系四阶**（豌豆→walnut 三色渐变→血肿修正四误认禁）+百分百黑帧+**尘尾长逗号**金句+白三角衬衫+入墙转场族（like gliding into a tunnel）。
+## 葡语 VFX 族（#176 SERVUS）
+
+- **链绞杀物理**：`corrente grossa saindo de dois lados`+`o chão chega a afundar um pouco`+`sangue espirrando`——**链张力使地面下陷**（力量可视化为地形形变）。
+- **复活非 CGI 金句**：`Olhos brilhando de CGI barato no lugar da respiração`（PROIBIDO）——**呼吸替代眼睛发光**的反特效声明。
+- **蝴蝶碎翅象征场**（行263 seedance_2_0）：`asas vão quebrando e caindo pedacinhos…ela vai perdendo as forças até cair no chão, debatendo com as asas que sobrou`——分段解体+残翅挣扎。
+- **月食阶段演化**（行317）：`a lua cobre metade do sol ainda, a lua esta indo pra esquerda, faça as nuvens em uma posição diferente`——**天象进度+云位重排**双变量推进。
+- **坠落如雷**（行381）：`cada vez que ele cai, mais ele pega fogo e grita…faz um rastro longo`——坠落过程累计伤害叙事。
