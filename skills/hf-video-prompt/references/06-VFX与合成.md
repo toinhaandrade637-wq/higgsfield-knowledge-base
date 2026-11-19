@@ -501,3 +501,13 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **金句尾注族**：a fading memory being told aloud/a memory that still hurts to tell/the safe harbor at the end of a long remembered life/a memory the heart refuses to let go/a memory one wishes to forget/a memory that still aches/the room feels like it is holding its breath——**六种 mood 尾注变体**。
 - **死人城空景**（23：qarafa — the City of the Dead+**a city of the departed sleeping inside the city of the living**）。
 - **猫大小暖斑**（100：a stray cat-sized patch of warm light——暖斑体量比喻）。
+## 海报合成与图层（#181 SIDE B）
+
+- **图层序三明治**（338：recreate this image with the following layer order, from front to back: fingers/hand frontmost, "SIDE B" logo middle——**前中后三层序声明**）+**前景层级注记**（374：which sits on a layer in front of the "SIDE B" logo）。
+- **chroma-key green 抠像底**（375/377/446：solid, flat, uniform green chroma-key color (standard chroma-key green, evenly lit, no gradients, no shadows)）。
+- **纯黑底规格**（380/516：pure black (RGB 0,0,0), completely flat…zero noise, zero gradient, and zero compression artifacts——**RGB 三零三无**）。
+- **删除填充背景延续**（339：Fill in the area where the logo used to be with a seamless continuation of the background — round, soft red/pink bokeh）。
+- **HARD TONAL CUT 类**（263：HARD TONAL CUT 婚礼→诊所——此处为婚礼→诊所段内换调；同族确认）。
+- **MARGIN 边距声明**（392：Generous plain dark space above title and below feet (see MARGIN). Never fill frame edge-to-edge——**禁满幅+边距段**）。
+- **边距恢复声明**（445：to restore empty margin on the right edge of the frame, which has almost disappeared）。
+- **故意重叠声明**（298：That overlap with the costume is intentional and fine）
