@@ -492,3 +492,12 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **文明穹顶飞船**（282 PULLING INTO SPACE：`colossal circular spacecraft, central transparent dome containing the civilization, enormous concentric ring[s]`）——飞船=携带文明设定。
 - **环形行星**（210：the Ringed Planet — with a wide ring system——ASSET BINDING 语义绑定）。
 - **金属长廊场景参照**（284：CHAMBER CORRIDOR / CEREMONIAL ENTRANCE — long elevated metallic corridor, reflective dark floor, glass railings）。
+## 环境与氛围（#180 SHE NEVER LEFT）
+
+- **ONE warm amber island per frame**——单暖岛律（每帧唯一暖源：standing lamp/ring light/hanging bulb/string lights/scan-monitor）。
+- **圣物微光制**（114/142：the frayed pale gray scarf subtly luminous, slightly brighter than everything around it——头巾=圣物微亮标记）。
+- **例外暖房**（155：DREAMY CINEMATIC GRAY grade with ONE exception…**the only room in this world where warmth wins**——产科房=全片唯一暖胜冷房间+the pink almost pastel-gray 粉色近褪）。
+- **锈饼干盒锚物**（163：pulled halfway out from under it into one strip of light——半抽入光带）。
+- **金句尾注族**：a fading memory being told aloud/a memory that still hurts to tell/the safe harbor at the end of a long remembered life/a memory the heart refuses to let go/a memory one wishes to forget/a memory that still aches/the room feels like it is holding its breath——**六种 mood 尾注变体**。
+- **死人城空景**（23：qarafa — the City of the Dead+**a city of the departed sleeping inside the city of the living**）。
+- **猫大小暖斑**（100：a stray cat-sized patch of warm light——暖斑体量比喻）。
