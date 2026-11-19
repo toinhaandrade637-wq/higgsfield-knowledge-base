@@ -350,3 +350,10 @@ the flooded ground may appear in color.
 - **NO grey, NO blue, NO cold cast anywhere**——LIGHT MUST BE WARM 三禁。
 - **纯天背板**：BEHIND HER IS ONLY OPEN EVENING SKY（七连禁 NO building NO wall NO roof NO eave NO window NO tree NO other person）。
 - **睡城**：a faint sleeping 1950s Balkan town——faint warm window lights+minaret silhouette。
+## #175 RECURSION（E934）
+
+- **三段百分比配方 3 例**（70/25/5+60/30/10 苹果红+60/30/10 肉红）。
+- **虹膜橡木色**：the tone of oak wood/milk chocolate/clear honey——虹膜色谱。
+- **Deakins controlled silhouette 署名制 2 例**+Kodak Vision3 500T。
+- **纯天背板七连禁**：NO building, NO wall, NO roof, NO eave, NO window, NO tree, NO other person。
+- **睡城**：a faint sleeping 1950s Balkan town——faint warm window lights。

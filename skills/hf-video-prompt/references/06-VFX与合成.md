@@ -454,3 +454,9 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **尘尾长逗号**：dust plume trails BEHIND as a long soft comma hanging over the road+the dust never sticks to the vehicle。
 - **白三角衬衫**：worn CLOSED with only a small white triangle of shirt showing at the throat。
 - **入墙转场族**：passes INTO the wall — half a second of soft warm darkness+like gliding into a tunnel+板缝黑转场。
+## #175 RECURSION（E934）
+
+- **泪中映像四版全案**（#174 复用）：MIRRORED REFLECTION/SUBTLE dark ghost（**just a ghost of two figures you have to look for** 金句——你得去找的幽灵）/EXACTLY THE COUPLE 绑参考/His hair is NEVER curly——照片 NEVER directly visible 恒定锁。
+- **皮影戏暴力转喻 v2**：THIS IS A SHADOW PLAY ON PLASTER+**The two shadows do NOT touch and do not overlap — a clear gap of moonlit plaster stays between them**——影间空隙声明。
+- **弹丸追踪全案**：**the camera LOCKS ONTO THE PELLET and TRACKS IT in flight**+**a true tracking shot on a projectile, not a pan** 金句+**The ball is soft lead and heavy for its size: it deforms on impact instead of shattering** 软铅变形+**This is a simple round air-gun ball, NOT a bullet**+**the flat dry SMACK of lead into hard wood** 大写拟声。
+- **淤伤谱系四阶**（豌豆→walnut 三色渐变→血肿修正四误认禁）+百分百黑帧+**尘尾长逗号**金句+白三角衬衫+入墙转场族（like gliding into a tunnel）。
