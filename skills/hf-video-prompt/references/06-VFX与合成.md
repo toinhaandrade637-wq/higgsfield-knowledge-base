@@ -511,3 +511,9 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **MARGIN 边距声明**（392：Generous plain dark space above title and below feet (see MARGIN). Never fill frame edge-to-edge——**禁满幅+边距段**）。
 - **边距恢复声明**（445：to restore empty margin on the right edge of the frame, which has almost disappeared）。
 - **故意重叠声明**（298：That overlap with the costume is intentional and fine）
+## 特效与合成（#182 SIDE BY SIDE）
+
+- **粒子书法系统**（5/9/32-36/75/79/82/85：彳亍 部首粒子——**中文部首拆字动画**+粒子方向（左下→右上）+粒子质感（乾燥墨粉或極細紙纖維）+二元结构（實體筆畫核心/邊界碎屑帶））。
+- **主观限域慢快门**（10 族——滤镜只作用于视点内）。
+- **同心旋转模糊**（180）。
+- **擦除辅助线**（18——路径参考线成片禁现）
