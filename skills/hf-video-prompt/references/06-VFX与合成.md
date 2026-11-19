@@ -517,3 +517,8 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **主观限域慢快门**（10 族——滤镜只作用于视点内）。
 - **同心旋转模糊**（180）。
 - **擦除辅助线**（18——路径参考线成片禁现）
+## VFX（#183 SILENCE LAVENDER）
+
+- **烟转场桥接**（14 族 smoke transition bridge——首尾帧烟转场）。
+- **删猫填景**（391/420 video_edit：Remove only the black cat from the shot. Delete the black cat and nothing else. Fill the small area…with a natural continuation of whatever kitchen surface is directly behind it——**删物+自然延续填景**）。
+- **升清三不**（268/270/389/393：Upscale and enhance clarity without modifying any details, composition, or colors——**升清三不声明**；**sunburst 模型承接 82c 升清**）
