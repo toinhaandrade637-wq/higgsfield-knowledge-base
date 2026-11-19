@@ -444,3 +444,13 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 - **影子局部制**：`Show only a partial, distorted shadow. Do not display a clearly outlined full-body silhouette`。
 - **双光源分级**：`Two separate warm sources at different strengths`+`two separate lights of two different characters on the same body`——拳果 4500K vs 肩袋 dimmer。
 - **光从地面来**：`All the light comes from BELOW, from a source on the ground that is never visible in frame`。
+## #174 RAMIZA（E933）
+
+- **泪中映像四版全案**：v1 MIRRORED REFLECTION shimmers — the soft distorted shapes…dreamlike, upside-down, barely readable+v2 **SUBTLE and DARK…just a ghost of two figures you have to look for**（你得去找的幽灵）+v3 **EXACTLY THE COUPLE FROM THE SECOND REFERENCE IMAGE**（映像绑参考）+His hair is NEVER curly——**The photographs themselves are NEVER directly visible** 全程锁。
+- **皮影戏暴力转喻 v2**：THIS IS A SHADOW PLAY ON PLASTER+TWO SHADOW SHAPES（大小双影 MEET and OVERLAP+The smaller outline strains away from the larger）+影子对峙静版（**The two shadows do NOT touch and do not overlap — a clear gap of moonlit plaster stays between them**——影间空隙）。
+- **弹丸追踪全案**：**the camera LOCKS ONTO THE PELLET and TRACKS IT in flight**+2x slow motion snap back+**a true tracking shot on a projectile, not a pan**（静版）+铅珠 4mm casting seam+**The ball is soft lead and heavy for its size: it deforms on impact instead of shattering** 软铅变形+**The impact is SMALL and unspectacular**+This is a simple round air-gun ball, NOT a bullet。
+- **淤伤谱系**：豌豆淤伤（marks the size of peas, a day old, skin unbroken）→walnut 三色渐变（dark blue-violet middle fading through mauve to grey）+新旧双痕（yellow-green almost healed）→血肿修正模板（a real haematoma the width of a hand+IRREGULAR and blotchy+SOFT DIFFUSE EDGES+NOT as pellet wounds 四误认禁+No finger-shaped marks）。
+- **百分百黑帧**：the final full second is PURE BLACK — 100% black frames+黑开场（camera already travelling）。
+- **尘尾长逗号**：dust plume trails BEHIND as a long soft comma hanging over the road+the dust never sticks to the vehicle。
+- **白三角衬衫**：worn CLOSED with only a small white triangle of shirt showing at the throat。
+- **入墙转场族**：passes INTO the wall — half a second of soft warm darkness+like gliding into a tunnel+板缝黑转场。

@@ -341,3 +341,12 @@ the flooded ground may appear in color.
 - **rose-gold 链色**：rose-gold rope chain。
 - **catch-lights 双点**：眼部双反光点声明。
 - **胶片锚**：Kodak Vision3 250D/500T+WB 谱 1900/3200/4000/4500/5600/6000/9000K。
+## #174 RAMIZA（E933）
+
+- **三段百分比配方 3 例**：70% near-black warm shadow/25% warm olive/5% amber lamp glow（key-art）+60% dark umber/30% cream lime wall/10% apple red+60% cool grey-white tiles/30% warm wood and skin/10% deep red of the meat。
+- **虹膜色谱**：the tone of oak wood（橡木）+oak wood or milk chocolate+clear honey or amber held against the light+LIGHT, WARM, GOLDEN-BROWN。
+- **Deakins controlled silhouette** 署名制 2 例+Kodak Vision3 500T。
+- **muted dusty-rose and sage palette**——尘玫瑰鼠尾草。
+- **NO grey, NO blue, NO cold cast anywhere**——LIGHT MUST BE WARM 三禁。
+- **纯天背板**：BEHIND HER IS ONLY OPEN EVENING SKY（七连禁 NO building NO wall NO roof NO eave NO window NO tree NO other person）。
+- **睡城**：a faint sleeping 1950s Balkan town——faint warm window lights+minaret silhouette。
