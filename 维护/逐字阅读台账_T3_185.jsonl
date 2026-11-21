@@ -1,4 +1,4 @@
-{"idx":1,"len":20432,"model":"default","sha8":"8eb532e0","findings":"**NO MUSIC 首帧首音频段头首例**（NO MUSIC FROM THE FIRST FRAME AND THE FIRST AUDIO SAMPLE——**首帧首音频取样起禁乐最强版**）+鱼岛序列续接 20432c"}
+{"idx":1,"len":20432,"model":"default","sha8":"8eb532e0","findings":"**NO MUSIC 首帧首音频段头首例**（NO MUSIC FROM THE FIRST FRAME AND THE FIRST AUDIO SAMPLE——**首帧首音频取样起禁乐最强版**）+**鱼岛序列续接族首现**（REFERENCE AND ELEMENT LOCK 🟦+<<<video_1>>> is the completed fish-island sequence whose final underwater image shows Sindbad falling——20432c；15/43/109 同族异长）"}
 {"idx":2,"len":3666,"model":"default","sha8":"9237385f","findings":"@SINDBAD_ELEMENT 元素标签首例+NO MUSIC 段头"}
 {"idx":3,"len":15394,"model":"default","sha8":"6573895f","findings":"ELEMENT AND REFERENCE LOCK 板 15394c"}
 {"idx":4,"len":6510,"model":"default","sha8":"ebdb0903","findings":"ELEMENT / CONTINUITY LOCK 板（<<<video_1>>> is the immediately preceding home scene——**紧前场景控制声明**）6510c"}
@@ -43,7 +43,7 @@
 {"idx":43,"len":18724,"model":"default","sha8":"ec16b252","findings":"鱼岛续接 18724c"}
 {"idx":44,"len":10043,"model":"default","sha8":"cb6183f5","findings":"四源 10043c"}
 {"idx":45,"len":12413,"model":"default","sha8":"da7ee62f","findings":"**七类音乐禁单首例**（No opening note, chord, sting, tonal hum, melody, score or musical ambience——**音符/和弦/重音/蜂鸣/旋律/配乐/音乐氛围七禁**）12413c ×2 首现"}
-{"idx":46,"len":12760,"model":"default","sha8":"5c830476","findings":"REFERENCES: 黑猫式门缝板 3938c（REFERENCES: 段头——黑猫琥珀眼+门缝复刻）"}
+{"idx":46,"len":12760,"model":"default","sha8":"5c830476","findings":"**NO MUSIC 七类禁乐 12760c 变体**（对行45 12413c 一字差独立）"}
 {"idx":47,"len":14484,"model":"default","sha8":"322f4829","findings":"ELEMENT LOCK 14484c"}
 {"idx":48,"len":9483,"model":"default","sha8":"2b1d3020","findings":"裸 UUID 9483c"}
 {"idx":49,"len":3261,"model":"default","sha8":"6994069e","findings":"**终帧续接精确版**（Continue directly from the exact final frame of <<<video_1>>>. Exactly 10 seconds…Preserve the same room, exact non-sunny weather, lighting, camera axis, sound, character positions——**十项保持清单**）"}
@@ -52,11 +52,11 @@
 {"idx":52,"len":4917,"model":"videotape-alpha","sha8":"bd8eb0c6","findings":"**turnaround sheet 母版句式首例**（Create exactly one maximum-quality horizontal 16:9 production character turnaround sheet for the OLDER AT-HOME VERSION——**老年在家版+production sheet**）videotape 4917c"}
 {"idx":53,"len":9649,"model":"default","sha8":"c39863e4","findings":"三源 9649c"}
 {"idx":54,"len":15594,"model":"default","sha8":"744e9db4","findings":"**Reference 1/2 编号引用板**（Reference 1 is the one and only Sindbad. It controls only his——**编号引用+仅控**）15594c ×2 首现"}
-{"idx":55,"len":15473,"model":"default","sha8":"aa7496bd","findings":"Reference 1 板 15473c（61/54 同文族成员）"}
-{"idx":56,"len":3473,"model":"null","sha8":"2a87586e","findings":"turnaround 板 3473c ×3 首现"}
+{"idx":55,"len":15473,"model":"default","sha8":"aa7496bd","findings":"Reference 1 板 15473c（61 同文）"}
+{"idx":56,"len":3473,"model":"null","sha8":"2a87586e","findings":"turnaround 板 3473c ×5 首现（120/197 同文）"}
 {"idx":57,"len":3473,"model":"null","sha8":"2a87586e","findings":"同文重生成（首现行56）"}
 {"idx":58,"len":3473,"model":"null","sha8":"2a87586e","findings":"同文重生成（首现行56）"}
-{"idx":59,"len":3696,"model":"null","sha8":"9744964b","findings":"turnaround 板 3696c ×2 首现（69 videotape 同文）"}
+{"idx":59,"len":3696,"model":"null","sha8":"9744964b","findings":"turnaround 板 3696c ×6 首现（69 videotape 同文）"}
 {"idx":60,"len":3696,"model":"null","sha8":"9744964b","findings":"同文重生成（首现行59）"}
 {"idx":61,"len":15473,"model":"default","sha8":"aa7496bd","findings":"同文重生成（首现行55）"}
 {"idx":62,"len":13383,"model":"default","sha8":"3664dfe7","findings":"Reference 1 13383c"}
@@ -67,7 +67,7 @@
 {"idx":67,"len":9332,"model":"default","sha8":"c5a1250d","findings":"**Video 2 续接板**（Video 2 is the direct visual and spatial continuity reference…two wooden longboats——**双长艇环境保持**）9332c ×2 首现"}
 {"idx":68,"len":7312,"model":"default","sha8":"917472ae","findings":"ELEMENT LOCK reference 1 小写版 7312c"}
 {"idx":69,"len":3696,"model":"videotape-alpha","sha8":"9744964b","findings":"同文重生成（首现行59）"}
-{"idx":70,"len":3847,"model":"null","sha8":"be88ce20","findings":"**exceptionally detailed polished 变体句式**（3847c ×3 首现；182 videotape 同文）"}
+{"idx":70,"len":3847,"model":"null","sha8":"be88ce20","findings":"**exceptionally detailed polished 变体句式**（3847c ×5 首现；182 videotape 同文）"}
 {"idx":71,"len":3847,"model":"null","sha8":"be88ce20","findings":"同文重生成（首现行70）"}
 {"idx":72,"len":3847,"model":"null","sha8":"be88ce20","findings":"同文重生成（首现行70）"}
 {"idx":73,"len":3359,"model":"default","sha8":"50777938","findings":"**动作序列板**（Use Image 1 as the exact identity…Use <<<uuid>>>——**Image 1 文字+UUID 混引**）3359c"}
@@ -79,21 +79,21 @@
 {"idx":79,"len":2625,"model":"videotape-alpha","sha8":"39140539","findings":"**polished 板**（absolute identity lock for th[e]——**identity lock 声明**）2625c"}
 {"idx":80,"len":2591,"model":"videotape-alpha","sha8":"86d41b77","findings":"polished 板 2591c"}
 {"idx":81,"len":2380,"model":"videotape-alpha","sha8":"ccf6d281","findings":"**liked image 板**（Use the single attached liked image as the absolute identity reference——**点赞图身份参考**）2380c"}
-{"idx":82,"len":3843,"model":"videotape-alpha","sha8":"8e90906b","findings":"**ARRI Alexa 35+Cooke 35mm anamorphic 双锚首例**（premium ninth-century historical sea-adventure film——**九世纪锚**）3843c ×7 首现"}
+{"idx":82,"len":3843,"model":"videotape-alpha","sha8":"8e90906b","findings":"**ARRI Alexa 35+Cooke 35mm anamorphic 双锚首例**（premium ninth-century historical sea-adventure film——**九世纪锚**）3843c ×12 首现"}
 {"idx":83,"len":3843,"model":"videotape-alpha","sha8":"8e90906b","findings":"同文重生成（首现行82）"}
-{"idx":84,"len":2003,"model":"videotape-alpha","sha8":"7b4f69d8","findings":"**terrace 空景板**（A warm, open, lived-in evening terrace in the house of a wealt[hy]——**富宅黄昏露台**）2003c ×2 首现"}
+{"idx":84,"len":2003,"model":"videotape-alpha","sha8":"7b4f69d8","findings":"**terrace 空景板**（A warm, open, lived-in evening terrace in the house of a wealt[hy]——**富宅黄昏露台**）2003c ×7 首现"}
 {"idx":85,"len":2003,"model":"videotape-alpha","sha8":"7b4f69d8","findings":"同文重生成（首现行84）"}
 {"idx":86,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
 {"idx":87,"len":3033,"model":"null","sha8":"9848f9be","findings":"**Use case: historical-scene 元数据段头首例**（Use case: historical-scene. Asset type: exactly one premium photographic live-action character portrait, vertical 9:16——**Use case/Asset type 双行元数据**）3033c"}
 {"idx":88,"len":2003,"model":"null","sha8":"7b4f69d8","findings":"同文重生成（首现行84）"}
 {"idx":89,"len":2003,"model":"null","sha8":"7b4f69d8","findings":"同文重生成（首现行84）"}
-{"idx":90,"len":2684,"model":"null","sha8":"0f414d78","findings":"House servant 板 2684c ×2 首现"}
+{"idx":90,"len":2684,"model":"null","sha8":"0f414d78","findings":"House servant 板 2684c ×8 首现"}
 {"idx":91,"len":2684,"model":"null","sha8":"0f414d78","findings":"同文重生成（首现行90）"}
 {"idx":92,"len":3033,"model":"null","sha8":"9848f9be","findings":"同文重生成（首现行87）"}
 {"idx":93,"len":3033,"model":"null","sha8":"9848f9be","findings":"同文重生成（首现行87）"}
-{"idx":94,"len":2691,"model":"null","sha8":"22fb8c2d","findings":"**Ship's navigator 板**（an Arab man age 44-48——领航员）2691c ×2 首现"}
+{"idx":94,"len":2691,"model":"null","sha8":"22fb8c2d","findings":"**Ship's navigator 板**（an Arab man age 44-48——领航员）2691c ×12 首现"}
 {"idx":95,"len":2691,"model":"null","sha8":"22fb8c2d","findings":"同文重生成（首现行94）"}
-{"idx":96,"len":2481,"model":"null","sha8":"1d9390c0","findings":"**Bosun 板**（an Arab man age 48-52 with deeply salt-burne[d] skin——**盐蚀肤**）2481c ×4 首现"}
+{"idx":96,"len":2481,"model":"null","sha8":"1d9390c0","findings":"**Bosun 板**（an Arab man age 48-52 with deeply salt-burne[d] skin——**盐蚀肤**）2481c ×8 首现"}
 {"idx":97,"len":2481,"model":"null","sha8":"1d9390c0","findings":"同文重生成（首现行96）"}
 {"idx":98,"len":2481,"model":"null","sha8":"1d9390c0","findings":"同文重生成（首现行96）"}
 {"idx":99,"len":2481,"model":"null","sha8":"1d9390c0","findings":"同文重生成（首现行96）"}
@@ -108,7 +108,7 @@
 {"idx":108,"len":8269,"model":"default","sha8":"7a238a9a","findings":"@SINDBAD_ELEMENT 8269c"}
 {"idx":109,"len":22157,"model":"default","sha8":"f4c1db71","findings":"鱼岛续接 22157c"}
 {"idx":110,"len":179,"model":"video_edit","sha8":"efcfbcc0","findings":"video_edit 鱼缸 179c"}
-{"idx":111,"len":10140,"model":"default","sha8":"6eb78eb0","findings":"video_edit 鱼缸 110c（number of fish——仅数量）"}
+{"idx":111,"len":10140,"model":"default","sha8":"6eb78eb0","findings":"**NO MUSIC 三源 10140c 变体**（对行16 10138c 一字差独立）"}
 {"idx":112,"len":10836,"model":"default","sha8":"43a0d151","findings":"**ELEMENT LOCK / REFERENCE ROLE 斜杠段头**（@SINDBAD_ELEMENT…approved mature identity）10836c"}
 {"idx":113,"len":12413,"model":"default","sha8":"da7ee62f","findings":"同文重生成（首现行45）"}
 {"idx":114,"len":10227,"model":"default","sha8":"9074892c","findings":"video_edit 斧劈变体 312c"}
@@ -124,7 +124,7 @@
 {"idx":124,"len":3811,"model":"videotape-alpha","sha8":"904989a9","findings":"exceptionally 板 3811c"}
 {"idx":125,"len":2669,"model":"videotape-alpha","sha8":"9e466d2b","findings":"polished 板 2669c"}
 {"idx":126,"len":2465,"model":"videotape-alpha","sha8":"fa09fb88","findings":"liked image 板 2465c"}
-{"idx":127,"len":6864,"model":"videotape-alpha","sha8":"4c7ac89a","findings":"ARRI 空景 6864c ×4 首现"}
+{"idx":127,"len":6864,"model":"videotape-alpha","sha8":"4c7ac89a","findings":"ARRI 空景 6864c ×7 首现"}
 {"idx":128,"len":6864,"model":"videotape-alpha","sha8":"4c7ac89a","findings":"同文重生成（首现行127）"}
 {"idx":129,"len":6864,"model":"videotape-alpha","sha8":"4c7ac89a","findings":"同文重生成（首现行127）"}
 {"idx":130,"len":3843,"model":"videotape-alpha","sha8":"8e90906b","findings":"同文重生成（首现行82）"}
@@ -167,15 +167,15 @@
 {"idx":167,"len":2518,"model":"null","sha8":"afe09d9a","findings":"同文重生成（首现行166）"}
 {"idx":168,"len":2518,"model":"null","sha8":"afe09d9a","findings":"同文重生成（首现行166）"}
 {"idx":169,"len":2518,"model":"null","sha8":"afe09d9a","findings":"同文重生成（首现行166）"}
-{"idx":170,"len":2507,"model":"null","sha8":"804ad603","findings":"**Young sailor 板**（age 20-23）2507c ×4 首现"}
+{"idx":170,"len":2507,"model":"null","sha8":"804ad603","findings":"**Young sailor 板**（age 20-23）2507c ×8 首现"}
 {"idx":171,"len":2507,"model":"null","sha8":"804ad603","findings":"同文重生成（首现行170）"}
 {"idx":172,"len":2507,"model":"null","sha8":"804ad603","findings":"同文重生成（首现行170）"}
-{"idx":173,"len":1848,"model":"null","sha8":"3bb17ad5","findings":"**Young dinner guest 板**（age 22-25 with war[den]）1848c ×4 首现"}
+{"idx":173,"len":1848,"model":"null","sha8":"3bb17ad5","findings":"**Young dinner guest 板**（age 22-25 with war[den]）1848c ×8 首现"}
 {"idx":174,"len":1848,"model":"null","sha8":"3bb17ad5","findings":"同文重生成（首现行173）"}
 {"idx":175,"len":1848,"model":"null","sha8":"3bb17ad5","findings":"同文重生成（首现行173）"}
 {"idx":176,"len":1848,"model":"null","sha8":"3bb17ad5","findings":"同文重生成（首现行173）"}
 {"idx":177,"len":2738,"model":"null","sha8":"243933c4","findings":"**Young woman 板**（age 24-27）2738c"}
-{"idx":178,"len":2624,"model":"null","sha8":"e810907b","findings":"Young woman 2624c（361 同文）"}
+{"idx":178,"len":2624,"model":"null","sha8":"e810907b","findings":"Young woman 2624c ×18 首现（361 等 17 行同文）"}
 {"idx":179,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
 {"idx":180,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
 {"idx":181,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
@@ -228,15 +228,15 @@
 {"idx":228,"len":2691,"model":"null","sha8":"22fb8c2d","findings":"同文重生成（首现行94）"}
 {"idx":229,"len":2691,"model":"null","sha8":"22fb8c2d","findings":"同文重生成（首现行94）"}
 {"idx":230,"len":2691,"model":"null","sha8":"22fb8c2d","findings":"同文重生成（首现行94）"}
-{"idx":231,"len":1516,"model":"null","sha8":"385e2c0b","findings":"**Primary request: 段头版**（Primary request: Create a middle-aged merchant dinner guest——**主请求措辞**）1516c ×4 首现（254 no-exactly-one 变体同文）"}
+{"idx":231,"len":1516,"model":"null","sha8":"385e2c0b","findings":"**Primary request: 段头版**（Primary request: Create a middle-aged merchant dinner guest——**主请求措辞**）1516c ×8 首现（254 no-exactly-one 变体同文）"}
 {"idx":232,"len":1516,"model":"null","sha8":"385e2c0b","findings":"同文重生成（首现行231）"}
 {"idx":233,"len":1516,"model":"null","sha8":"385e2c0b","findings":"同文重生成（首现行231）"}
 {"idx":234,"len":1516,"model":"null","sha8":"385e2c0b","findings":"同文重生成（首现行231）"}
-{"idx":235,"len":1866,"model":"null","sha8":"d05b25f0","findings":"Merchant 板 1866c ×4 首现"}
+{"idx":235,"len":1866,"model":"null","sha8":"d05b25f0","findings":"Merchant 板 1866c ×8 首现"}
 {"idx":236,"len":1866,"model":"null","sha8":"d05b25f0","findings":"同文重生成（首现行235）"}
 {"idx":237,"len":1866,"model":"null","sha8":"d05b25f0","findings":"同文重生成（首现行235）"}
 {"idx":238,"len":1866,"model":"null","sha8":"d05b25f0","findings":"同文重生成（首现行235）"}
-{"idx":239,"len":2441,"model":"null","sha8":"e727cf95","findings":"Old sailor 板 2441c（385 同文）"}
+{"idx":239,"len":2441,"model":"null","sha8":"e727cf95","findings":"Old sailor 板 2441c ×16 首现（385 同文）"}
 {"idx":240,"len":2512,"model":"null","sha8":"ce3fae6b","findings":"**Ship-owner 板**（age 40-44——船东）2512c ×4 首现"}
 {"idx":241,"len":2512,"model":"null","sha8":"ce3fae6b","findings":"同文重生成（首现行240）"}
 {"idx":242,"len":2512,"model":"null","sha8":"ce3fae6b","findings":"同文重生成（首现行240）"}
@@ -258,7 +258,7 @@
 {"idx":258,"len":1534,"model":"null","sha8":"e4095bfa","findings":"Primary request 板 1534c ×4 首现"}
 {"idx":259,"len":1534,"model":"null","sha8":"e4095bfa","findings":"同文重生成（首现行258）"}
 {"idx":260,"len":600,"model":"video_edit","sha8":"2e62f78d","findings":"**video_edit 删双长艇板**（Remove both small wooden longboats completely from every frame in which they appear. The two longboats must not be visible anywhere at any moment——**删物全帧禁现**）600c"}
-{"idx":261,"len":2137,"model":"null","sha8":"8570833c","findings":"**Sindbad's wife 板**（preserve the kind mature character language of heroi[c]——**女主英雄气质语言**）2137c ×4 首现"}
+{"idx":261,"len":2137,"model":"null","sha8":"8570833c","findings":"**Sindbad's wife 板**（preserve the kind mature character language of heroi[c]——**女主英雄气质语言**）2137c ×16 首现"}
 {"idx":262,"len":2441,"model":"null","sha8":"e727cf95","findings":"同文重生成（首现行239）"}
 {"idx":263,"len":2441,"model":"null","sha8":"e727cf95","findings":"同文重生成（首现行239）"}
 {"idx":264,"len":2441,"model":"null","sha8":"e727cf95","findings":"同文重生成（首现行239）"}
@@ -266,18 +266,18 @@
 {"idx":266,"len":1496,"model":"null","sha8":"6c14c4e8","findings":"同文重生成（首现行265）"}
 {"idx":267,"len":1496,"model":"null","sha8":"6c14c4e8","findings":"同文重生成（首现行265）"}
 {"idx":268,"len":1496,"model":"null","sha8":"6c14c4e8","findings":"同文重生成（首现行265）"}
-{"idx":269,"len":2657,"model":"null","sha8":"a8107d9c","findings":"**独眼巨人像板**（The one-eyed giant guardian of the cave: preserve the ancient blind-headed creatu[re]——**盲头古巨人**）2657c ×4 首现（390 videotape 同文）"}
+{"idx":269,"len":2657,"model":"null","sha8":"a8107d9c","findings":"**独眼巨人像板**（The one-eyed giant guardian of the cave: preserve the ancient blind-headed creatu[re]——**盲头古巨人**）2657c ×6 首现（390/391 videotape 同文）"}
 {"idx":270,"len":2657,"model":"null","sha8":"a8107d9c","findings":"同文重生成（首现行269）"}
 {"idx":271,"len":2657,"model":"null","sha8":"a8107d9c","findings":"同文重生成（首现行269）"}
 {"idx":272,"len":2657,"model":"null","sha8":"a8107d9c","findings":"同文重生成（首现行269）"}
-{"idx":273,"len":4490,"model":"videotape-alpha","sha8":"2ce96412","findings":"**1970s 实拍框架板首例**（A raw live-action 35mm frame from a serious 1970s historical sea epic, filmed on a real cavern set with a real physical performer——**真洞穴布景+真实特技演员+70 年代框架**）videotape 4490c ×3 首现（334 null 版/397 naturally 版同文）"}
+{"idx":273,"len":4490,"model":"videotape-alpha","sha8":"2ce96412","findings":"**1970s 实拍框架板首例**（A raw live-action 35mm frame from a serious 1970s historical sea epic, filmed on a real cavern set with a real physical performer——**真洞穴布景+真实特技演员+70 年代框架**）videotape 4490c ×11 首现（334-337 null 版/397-400 naturally 版同文）"}
 {"idx":274,"len":4490,"model":"videotape-alpha","sha8":"2ce96412","findings":"同文重生成（首现行273）"}
 {"idx":275,"len":4490,"model":"videotape-alpha","sha8":"2ce96412","findings":"同文重生成（首现行273）"}
 {"idx":276,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
 {"idx":277,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
 {"idx":278,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
 {"idx":279,"len":9331,"model":"default","sha8":"9ca1bfa9","findings":"Video 2 续接板 9331c"}
-{"idx":280,"len":1560,"model":"null","sha8":"cebfada4","findings":"**Rukh 掠海板首例**（historical-myth creature action/location shot…A giant Rukh passes extremely low over a small ancien[t ship]——**大鹏极低掠过**）1560c ×5 首现"}
+{"idx":280,"len":1560,"model":"null","sha8":"cebfada4","findings":"**Rukh 掠海板首例**（historical-myth creature action/location shot…A giant Rukh passes extremely low over a small ancien[t ship]——**大鹏极低掠过**）1560c ×12 首现"}
 {"idx":281,"len":1560,"model":"null","sha8":"cebfada4","findings":"同文重生成（首现行280）"}
 {"idx":282,"len":1560,"model":"null","sha8":"cebfada4","findings":"同文重生成（首现行280）"}
 {"idx":283,"len":1560,"model":"null","sha8":"cebfada4","findings":"同文重生成（首现行280）"}
@@ -302,7 +302,7 @@
 {"idx":302,"len":2624,"model":"null","sha8":"e810907b","findings":"同文重生成（首现行178）"}
 {"idx":303,"len":1910,"model":"null","sha8":"a23af5b1","findings":"同文重生成（首现行246）"}
 {"idx":304,"len":2137,"model":"null","sha8":"8570833c","findings":"同文重生成（首现行261）"}
-{"idx":305,"len":2560,"model":"null","sha8":"00b68212","findings":"**liked wife 板**（Preserve the recognizable identity, age and gentle warmth of the exact liked wi[fe]——**点赞妻像保持**）2560c ×4 首现"}
+{"idx":305,"len":2560,"model":"null","sha8":"00b68212","findings":"**liked wife 板**（Preserve the recognizable identity, age and gentle warmth of the exact liked wi[fe]——**点赞妻像保持**）2560c ×9 首现"}
 {"idx":306,"len":2560,"model":"null","sha8":"00b68212","findings":"同文重生成（首现行305）"}
 {"idx":307,"len":2560,"model":"null","sha8":"00b68212","findings":"同文重生成（首现行305）"}
 {"idx":308,"len":2560,"model":"null","sha8":"00b68212","findings":"同文重生成（首现行305）"}
@@ -310,14 +310,14 @@
 {"idx":310,"len":1910,"model":"null","sha8":"a23af5b1","findings":"同文重生成（首现行246）"}
 {"idx":311,"len":1910,"model":"null","sha8":"a23af5b1","findings":"同文重生成（首现行246）"}
 {"idx":312,"len":1910,"model":"null","sha8":"a23af5b1","findings":"同文重生成（首现行246）"}
-{"idx":313,"len":1901,"model":"null","sha8":"c3a24497","findings":"**Young woman 28-32 板**（1901c ×3 首现；376 同文）"}
+{"idx":313,"len":1901,"model":"null","sha8":"c3a24497","findings":"**Young woman 28-32 板**（1901c ×4 首现；376 同文）"}
 {"idx":314,"len":1901,"model":"null","sha8":"c3a24497","findings":"同文重生成（首现行313）"}
 {"idx":315,"len":1901,"model":"null","sha8":"c3a24497","findings":"同文重生成（首现行313）"}
 {"idx":316,"len":1595,"model":"null","sha8":"c6cb815a","findings":"Primary request older woman 板 1595c ×4 首现"}
 {"idx":317,"len":1595,"model":"null","sha8":"c6cb815a","findings":"同文重生成（首现行316）"}
 {"idx":318,"len":1595,"model":"null","sha8":"c6cb815a","findings":"同文重生成（首现行316）"}
 {"idx":319,"len":1595,"model":"null","sha8":"c6cb815a","findings":"同文重生成（首现行316）"}
-{"idx":320,"len":1486,"model":"null","sha8":"dc805f80","findings":"**Primary request young woman 板**（1486c ×3 首现）"}
+{"idx":320,"len":1486,"model":"null","sha8":"dc805f80","findings":"**Primary request young woman 板**（1486c ×4 首现）"}
 {"idx":321,"len":1486,"model":"null","sha8":"dc805f80","findings":"同文重生成（首现行320）"}
 {"idx":322,"len":1486,"model":"null","sha8":"dc805f80","findings":"同文重生成（首现行320）"}
 {"idx":323,"len":1848,"model":"null","sha8":"3bb17ad5","findings":"同文重生成（首现行173）"}
@@ -407,11 +407,11 @@
 {"idx":407,"len":1560,"model":"null","sha8":"cebfada4","findings":"同文重生成（首现行280）"}
 {"idx":408,"len":2115,"model":"null","sha8":"3f268f1d","findings":"**wife in-pr[ocess] 板**（character language of in-pr[ocess]——制作中措辞变体）2115c ×2 首现"}
 {"idx":409,"len":2137,"model":"null","sha8":"8570833c","findings":"同文重生成（首现行261）"}
-{"idx":410,"len":1988,"model":"null","sha8":"b4a9712c","findings":"**wife 36-40 板**（an adult Arab woman age 36–40, strong, striking, int[elligent]——**强三词人设**）1988c ×4 首现"}
+{"idx":410,"len":1988,"model":"null","sha8":"b4a9712c","findings":"**wife 36-40 板**（an adult Arab woman age 36–40, strong, striking, int[elligent]——**强三词人设**）1988c ×5 首现"}
 {"idx":411,"len":1988,"model":"null","sha8":"b4a9712c","findings":"同文重生成（首现行410）"}
 {"idx":412,"len":1988,"model":"null","sha8":"b4a9712c","findings":"同文重生成（首现行410）"}
 {"idx":413,"len":1988,"model":"null","sha8":"b4a9712c","findings":"同文重生成（首现行410）"}
-{"idx":414,"len":2034,"model":"null","sha8":"2866245a","findings":"wife 2034c ×2 首现"}
+{"idx":414,"len":2034,"model":"null","sha8":"2866245a","findings":"wife 2034c ×5 首现"}
 {"idx":415,"len":2034,"model":"null","sha8":"2866245a","findings":"同文重生成（首现行414）"}
 {"idx":416,"len":1512,"model":"null","sha8":"d44d082e","findings":"**Rukh 概念卡板**（The giant Rukh: an immense, historically plausible marine pr[edator]——**历史可信海洋捕食者**）1512c"}
 {"idx":417,"len":2115,"model":"null","sha8":"3f268f1d","findings":"同文重生成（首现行408）"}
@@ -425,7 +425,7 @@
 {"idx":425,"len":1673,"model":"null","sha8":"550fe383","findings":"同文重生成（首现行423）"}
 {"idx":426,"len":1506,"model":"null","sha8":"213b6a22","findings":"Primary request 板 around 42 1506c"}
 {"idx":427,"len":1443,"model":"null","sha8":"3a94b9c5","findings":"Primary request 板 1443c ×2 首现"}
-{"idx":428,"len":1231,"model":"videotape-alpha","sha8":"ee6ecdc1","findings":"**videotape 新主角板**（as a new central character in the established grounded ancient h[istorical world]——**既定世界新主角**）1231c ×2 首现"}
+{"idx":428,"len":1231,"model":"videotape-alpha","sha8":"ee6ecdc1","findings":"**videotape 新主角板**（as a new central character in the established grounded ancient h[istorical world]——**既定世界新主角**）1231c ×3 首现（495/496 同文）"}
 {"idx":429,"len":750,"model":"null","sha8":"1d6c0575","findings":"**Rukh concept card 板**（physically believable rather than a fantasy mascot——**物理可信非吉祥物声明**）750c"}
 {"idx":430,"len":1300,"model":"null","sha8":"64cb9fe2","findings":"**monkey city 内景板**（the private sleeping chamber inside the attached ancient monkey city. Treat the attached coastal cliff city as the sole architectural reference——**猴城唯一建筑参考**）1300c ×2 首现（500 同文）"}
 {"idx":431,"len":793,"model":"null","sha8":"6b8c514e","findings":"**burial chamber 保持板首例**（Preserve the attached burial chamber exactly: same dark doorway framing, same low oval stone resting platform, same round oculus with its single soft shaft of daylight, same three deep oil lamps——**天井独光柱+三油灯**）793c"}
@@ -452,7 +452,7 @@
 {"idx":452,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
 {"idx":453,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
 {"idx":454,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
-{"idx":455,"len":725,"model":"null","sha8":"95782e54","findings":"**monkey city 仅改机位**（Change only the camera position: move the camera high above the street——**仅改机位三连**）725c ×2 首现"}
+{"idx":455,"len":725,"model":"null","sha8":"95782e54","findings":"**monkey city 仅改机位**（Change only the camera position: move the camera high above the street——**仅改机位三连**）725c ×3 首现"}
 {"idx":456,"len":725,"model":"null","sha8":"95782e54","findings":"同文重生成（首现行455）"}
 {"idx":457,"len":0,"model":"null","sha8":"e3b0c442","findings":"空 prompt"}
 {"idx":458,"len":725,"model":"null","sha8":"95782e54","findings":"同文重生成（首现行455）"}

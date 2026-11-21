@@ -526,3 +526,10 @@ Photoreal. <aspect>. <duration = 源片时长>s. <look/grade>. NON-IP — generi
 
 - **三比例海报族**（21/28：9:16 vertical；27：16:9 YouTube thumbnail；29：21:9 ultra-wide——**竖版/横版/超宽三比例**+**YouTube 缩略图版式首例**）。
 - **裸 UUID 三连海报**（21/27/28/29：三 UUID 连排+poster——**UUID 群+版式**）
+## 神话地理与生物（#185 SINDBAD）
+
+- **鱼背岛金句**（it is secretly the huge long low back of a sleeping ancient fish…The island must look naturally grown, never arranged or landscaped——**岛=沉睡古鱼之背+自然生长禁布置**）。
+- **猴城系统**（ancient monkey city carved directly from dark wet basalt above a cold open sea——黑湿玄武岩崖城+sole architectural reference 唯一建筑参考+同城石凿空房）。
+- **墓室保持**（Preserve the attached burial chamber exactly: same dark doorway framing, same low oval stone resting platform, same round oculus with its single soft shaft of daylight, same three deep oil lamps——**天井独光柱+三油灯**+uninhabited and without a body 无尸+褪色靛蓝布非黑布）。
+- **Rukh 大鹏设定**（immense, historically plausible marine predator——**历史可信海洋捕食者**+physically believable rather than a fantasy mascot **物理可信非吉祥物**）。
+- **地下河/极窄水道**（black water slips beneath a low wet rock ceiling…No lamps 无灯黑水+so low and tight that a person could later only lie flat on a tiny raft——**仅容平躺木筏**）
